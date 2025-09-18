@@ -5,11 +5,16 @@ Spring Framework를 사용하여 MVC 기반의 회원 관리 시스템을 개발
 
 
 (습득 역량)
+
 ● Java 및 Spring MVC 개발
+
 ● DB 연동 및 컨트롤러 구현
+
 ● REST API 구성
+
 ● 객체 지향 프로그래밍 기초
 
 
 (결과물)
+
 ● 아키텍처 설계 및 DB 구조 문서
